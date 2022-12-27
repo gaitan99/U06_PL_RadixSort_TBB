@@ -1,6 +1,6 @@
 # U06_PL_RadixSort_TBB
 El objetivo de esta practica es implementar el algoritmo Radix sort utilizando la librería Intel TBB para ordenar un vector de numero.
-Para realizar el ejericio he utilizado de referencia el ejercicio 6_Example_PackingProblem.
+Para realizar el ejercicio he utilizado de referencia el ejercicio 6_Example_PackingProblem.
 
 Procedimiento:
   1. Hemos generado dos arrays, una para poder obtener que posiciones del vector a ordenar tienen como valor un numero cuyo último bit
